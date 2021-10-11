@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "sd",
+      "email": "sd@yopmail.com"
+    },
+    {
+        "id": 2,
+        "name": "ds",
+        "email": "ds@yopmail.com"
+      }
+  ]
+}
